@@ -47,16 +47,6 @@
 ![Clipchamp](https://img.shields.io/badge/-Clipchamp-8338EC?style=flat&logo=clipchamp&logoColor=white)
 
 ---
-## 🛠️ Skills & Tech Stack
-
-- **Languages:** Python, C, C++, R, Java  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Databases:** SQL, MySQL  
-- **Tools & IDEs:** Git, GitHub, VS Code, Jupyter, PyCharm  
-- **Other Tools:** Canva, Power Director, Microsoft Clipchamp  
-- **Concepts:** DSA, OOP
-
----
 
 ## 📜 Certifications
 
