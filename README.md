@@ -73,7 +73,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/gaurav-sharma19)    
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gaurav-sharma19/)    
 - 📧 Email: gsharma190805@gmail.com  
 
 ---
